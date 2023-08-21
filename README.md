@@ -3,7 +3,7 @@
 <!--keep description in sync with pyproject.toml-->
 
 <!--tagline-start-->
-**MNE-BIDS-Pipeline is a full-flegded processing pipeline for your MEG and
+**MNE-BIDS-Pipeline is a full-fledged processing pipeline for your MEG and
 EEG data.**
 
 * It operates on data stored according to the [Brain Imaging Data
